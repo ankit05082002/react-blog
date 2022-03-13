@@ -19,7 +19,7 @@ class About extends React.Component{
             <h2>{this.state.name}</h2>
             <h2>{this.state.age}</h2>
 
-            <button onClick={()=>{this.setState({name:'Ankit Dewangan'})}}> Update State</button>
+            <button onClick={()=>{this.setState({name:'LAudu LAlit'})}}> Update State</button>
         </div>)
     }
 }

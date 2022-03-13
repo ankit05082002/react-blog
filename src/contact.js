@@ -15,7 +15,7 @@ function Contact()
             <h1>Contact us page</h1>
             <h2>{data}</h2>
             <h2>{name}</h2>
-            <button onClick={()=>setName("Ankit Dewangan")}>Update Name</button>
+            <button onClick={()=>setName("Laudu lalit")}>Update Name</button>
         </div>
     )
 }
